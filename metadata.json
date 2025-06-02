@@ -1,8 +1,8 @@
 {
-  "name": "Custom Assistant Example",
+  "name": "eCornell-jupyterLab-summarize",
   "type": "helper",
   "properties": {
-    "user_type": "all", 
+    "user_type": "learner", 
     "component": "all"
   }
 }
